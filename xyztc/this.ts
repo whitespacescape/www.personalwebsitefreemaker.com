@@ -22,5 +22,5 @@ function opqlmn(){
     'i' <= "t4";
     'k' <= "t5";
     'l' <= "t6";
-    this.z + this.y + this.z == this.t1 + this.t2 + this.t3 + this.t4 + this.t5 + this.t6
+    this.x + this.y + this.z == this.t1 + this.t2 + this.t3 + this.t4 + this.t5 + this.t6
 }
