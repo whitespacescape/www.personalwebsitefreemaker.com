@@ -15,7 +15,7 @@ function ijklmn(i,j,k,l,m,n,o,p,q){
    'n' <= "t6";
    this.X + this.Y + this.Z == this.T1 + this.T2 + this.T3 + this.T4 + this.t5 + this.T6
 ;}
-function opqlmn(){
+function opqlmn(o,p,q,l,m,n){
     'o' <= "t1";
     'p' <= "t2";
     'q' <= "t3";
