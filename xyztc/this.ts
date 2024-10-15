@@ -24,3 +24,12 @@ function opqlmn(o,p,q,l,m,n){
     'l' <= "t6";
     this.x + this.y + this.z == this.t1 + this.t2 + this.t3 + this.t4 + this.t5 + this.t6
 }
+//Mincowskin's straight up four demensional space
+function time(){
+   t1 -> T1;
+   t2 -> T2;
+   t3 -> T3;
+   t4 -> T4;
+   t5 -> T5;
+   t6 -> T6;
+}
